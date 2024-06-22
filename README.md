@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerem Tatari</h1>
-<h3 align="center">A Junior Computer Science & Engineering Student from Sabanci University</h3>
+<h3 align="center">A Senior Computer Science & Engineering Student from Sabanci University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krmttr&label=Profile%20views&color=0e75b6&style=flat" alt="krmttr" /> </p>
 
