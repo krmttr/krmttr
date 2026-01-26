@@ -24,4 +24,4 @@ CSE graduate @ Sabancı University • Building software
 
 ### Contact
 - 📫 **keremtatari@sabanciuniv.edu**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="24" align="center" /> [LinkedIn](https://linkedin.com/in/kerem-tatari)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="22" align="center" /> [LinkedIn](https://linkedin.com/in/kerem-tatari)
